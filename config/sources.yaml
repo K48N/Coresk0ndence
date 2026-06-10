@@ -1,0 +1,31 @@
+newspapers:
+  - name: Reuters Politics
+    niche: politics
+    rss: https://www.reutersagency.com/feed/?best-topics=politics&post_type=best
+  - name: Politico
+    niche: politics
+    rss: https://rss.politico.com/politics-news.xml
+  - name: BBC Politics
+    niche: politics
+    rss: http://feeds.bbci.co.uk/news/politics/rss.xml
+  - name: The Guardian Politics
+    niche: politics
+    rss: https://www.theguardian.com/politics/rss
+  - name: Financial Times Economics
+    niche: economics
+    rss: https://www.ft.com/global-economy?format=rss
+  - name: Bloomberg Markets
+    niche: finance
+    rss: https://feeds.bloomberg.com/markets/news.rss
+  - name: WSJ Economy
+    niche: economics
+    rss: https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml
+  - name: Al Jazeera Economy
+    niche: economics
+    rss: https://www.aljazeera.com/xml/rss/all.xml
+  - name: The Verge
+    niche: tech
+    rss: https://www.theverge.com/rss/index.xml
+  - name: TechCrunch
+    niche: tech
+    rss: https://techcrunch.com/feed/

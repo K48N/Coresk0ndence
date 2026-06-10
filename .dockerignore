@@ -1,0 +1,29 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Development files
+tests/
+requirements-dev.txt
+.git/
+.gitignore
+README.md
+
+# Runtime data (mount as volumes)
+data/
+output/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
